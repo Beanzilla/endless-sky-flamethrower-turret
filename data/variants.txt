@@ -10,7 +10,7 @@
 
 ship "Argosy" "Argosy (Flamethrower Turret)"
 	outfits
-		"Flamethrower Turret" 2
+		"Flamethrower Turret 2" 2
 		"Fission Reactor"
 		"LP072a Battery Pack"
 		"D41-HY Shield Generator"

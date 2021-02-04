@@ -9,4 +9,4 @@
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 outfitter "Special Outfits"
-	"Flamethrower Turret"
+	"Flamethrower Turret 2"
